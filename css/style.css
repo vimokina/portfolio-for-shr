@@ -1,0 +1,38 @@
+body {
+  font-family: Finlandica, serif;
+  font-size: 20px;
+  line-height: 130%;
+  margin-left: 3%;
+}
+
+p {
+  max-width: 900px;
+  margin: 0 0 .88em 0;
+}
+
+h2 {
+  font-family: Finlandica, serif;
+  max-width: 900px;
+  font-size: 40px;
+  line-height: 110%;
+  font-color: 008080;
+}
+
+.list {
+ background-color: #AFEEEE;
+ max-width: 900px;
+}
+
+.foto {
+  float: right;
+  width: 47%;
+}
+
+.resume {
+  float: left;
+  width: 50%;
+}
+
+.gallery {
+ max-width: 1200px;
+}
